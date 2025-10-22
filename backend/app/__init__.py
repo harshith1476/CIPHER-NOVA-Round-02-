@@ -1,2 +1,0 @@
-# Initialize Flask app module
-
